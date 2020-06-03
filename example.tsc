@@ -1,0 +1,16 @@
+//this is a comment
+
+//this line will create a canvas window.
+canvas 1000 700
+//this line will set the fill color to green
+fill #00ff00
+//this line will draw a rectangle with width of 800 px and height of 300 px.
+rectangle (50,50) 800 300
+//this line will set the fill to red
+fill #ff0000
+//this line will draw a circle.
+circle (400,185) 72
+//this line will put a text label on the canvas.
+text #center National Flag of Bangladesh
+//this line will wait for 2 seconds and then exits.
+wait 2
