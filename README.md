@@ -19,7 +19,7 @@ outline-----------------$color_code--------------------------str<br>
 background--------------$color_code--------------------------str<br>
 width------------------------$px-----------------------------int<br>
 <h1>Explaination</h1><br>
-Visit <a href="nurtasin.github.io/tScript"> tScript.org </a> for more.<br>
+Visit <a href="https://nurtasin.github.io/tScript"> tScript.org </a> for more.<br>
 <h1>License and Copyright</h1>
 &copy; 2020 Nur Mahmud Ul Alam Tasin.<br>
 tScript is MIT licensed.
